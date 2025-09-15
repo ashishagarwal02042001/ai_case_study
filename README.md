@@ -55,7 +55,6 @@ It simulates how government or NGO caseworkers can process applicant documents, 
 1. **Clone repository**  
    ```bash
    git clone https://github.com/ashishagarwal02042001/ai_case_study.git
-   cd social-support-eligibility
    ```
 
 2. **Create virtual environment**  
